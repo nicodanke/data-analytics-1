@@ -1,0 +1,33 @@
+company,company_id,area,area_id,employee_count
+Apple Inc. ,AAPL,Accounting,1,421
+Apple Inc. ,AAPL,Engineering,2,365
+Apple Inc. ,AAPL,HR,3,821
+Apple Inc. ,AAPL,Sales,4,416
+Microsoft Corp ,MSFT,Accounting,1,946
+Microsoft Corp ,MSFT,Engineering,2,758
+Microsoft Corp ,MSFT,HR,3,25
+Microsoft Corp ,MSFT,Sales,4,69
+Amazon.com Inc ,AMZN,Accounting,1,389
+Amazon.com Inc ,AMZN,Engineering,2,590
+Amazon.com Inc ,AMZN,HR,3,546
+Amazon.com Inc ,AMZN,Sales,4,240
+Facebook Inc ,FB,Accounting,1,175
+Facebook Inc ,FB,Engineering,2,868
+Facebook Inc ,FB,HR,3,692
+Facebook Inc ,FB,Sales,4,92
+Verizon Communications,VZ,Accounting,1,548
+Verizon Communications,VZ,Engineering,2,328
+Verizon Communications,VZ,HR,3,333
+Verizon Communications,VZ,Sales,4,514
+Intel,INTC,Accounting,1,615
+Intel,INTC,Engineering,2,961
+Intel,INTC,HR,3,812
+Intel,INTC,Sales,4,20
+Allegion,ALLE,Accounting,1,247
+Allegion,ALLE,Engineering,2,758
+Allegion,ALLE,HR,3,395
+Allegion,ALLE,Sales,4,347
+The Mosaic Company,MOS,Accounting,1,889
+The Mosaic Company,MOS,Engineering,2,39
+The Mosaic Company,MOS,HR,3,375
+The Mosaic Company,MOS,Sales,4,359
